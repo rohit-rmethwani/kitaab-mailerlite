@@ -1,0 +1,54 @@
+.section-hero{
+    padding-top: 4rem;
+}
+
+.section-hero .section-hero-title{
+    font-size: 2.75rem;
+    margin-bottom: 2rem;
+}
+
+.section-hero .section-hero-subtitle{
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 0.75rem;
+}
+
+.section-hero .section-hero-subtitle a:hover{
+    text-decoration: underline;
+}
+
+.section-hero .section-hero-recommended{
+    text-align: center;
+}
+
+.section-hero .section-hero-recommended .section-hero-recommended-image{
+    margin-bottom: 0.75rem;
+}
+
+.section-hero .section-hero-recommended .section-hero-recommended-text{
+    display: block;
+    color: #7F7F7F;
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+}
+
+.section-hero .section-hero-recommended .section-hero-recommended-name{
+    font-size: 1rem;
+}
+
+@media(max-width:768px){
+    .section-hero{
+        padding-top: 2rem;
+        padding-bottom: 2.5rem;
+    }
+    .section-hero .section-hero-title{
+        font-size: 1.5rem;
+        max-width: 20.5rem;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 1.5rem;
+    }
+    .section-hero .section-hero-subtitle{
+        font-size: 0.875rem;
+    }
+}
