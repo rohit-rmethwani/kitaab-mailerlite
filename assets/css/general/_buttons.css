@@ -43,6 +43,7 @@
 @media(max-width:768px){
     .button{
         padding: 0.55rem 1.05rem;
+        font-size: 0.8rem;
     }
 }
 
