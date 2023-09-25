@@ -1,0 +1,26 @@
+.weight-500{
+    font-weight: 500;
+}
+
+.weight-700{
+    font-weight: 700;
+}
+
+.weight-800{
+    font-weight: 800;
+}
+
+.text-off-black{
+    color: var(--off-black)!important;
+}
+
+.text-blue{
+    color: var(--blue)!important;
+}
+.text-black{
+    color: var(--black)!important;
+}
+
+.text-white{
+    color: var(--white)!important;
+}

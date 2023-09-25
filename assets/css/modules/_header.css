@@ -1,0 +1,25 @@
+.navbar .navbar-nav{
+    margin-left: auto!important;
+    margin-right: 0!important;
+}
+
+.navbar .navbar-nav.centered-aligned{
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+.navbar-toggler{
+    border: none!important;
+}
+.navbar .navbar-nav .nav-item{
+    margin-right: 0.75rem;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    font-weight: 400!important;
+    padding: 1rem 0.75rem;
+    transition: all 0.3s ease-out;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    color: #221CA6!important;
+}
